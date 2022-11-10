@@ -1,3 +1,14 @@
+## Face Tracking
+
+## Setup environment
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install -U pip wheel setuptools
+pip install -r requirements.txt
+```
+
 ## Start project
 
 ```bash
@@ -15,15 +26,5 @@ determine the number of face occurrences
 ```bash
 https://github.com/davidsandberg/facenet 
 https://docs.opencv.org/4.x/d0/dd4/tutorial_dnn_face.html?msclkid=bbba05a1af3911eca0d1cf4ec0faac6c
-```
-## Face Tracking
-
-## Setup environment
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -U pip wheel setuptools
-pip install -r requirements.txt
 ```
 
