@@ -16,4 +16,8 @@ source venv/bin/activate
 python main.py
 ```
 # Describe
-'''
+```bash
+face detection using Yunet
+face recognition in dataset using facenet tensorflow
+assign identifier to face when appearing since 2nd time
+determine the number of face occurrences
