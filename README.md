@@ -12,10 +12,11 @@ assign identifier to face when appearing since 2nd time
 determine the number of face occurrences
 
 ## reference
+```bash
 https://github.com/davidsandberg/facenet
 https://docs.opencv.org/4.x/d0/dd4/tutorial_dnn_face.html?msclkid=bbba05a1af3911eca0d1cf4ec0faac6c
 
-# Face Tracking
+## Face Tracking
 
 ## Setup environment
 
